@@ -21,5 +21,5 @@ $ npm install
 $ npm start
 ```
 
-## References
+## Reference
 https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
